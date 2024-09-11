@@ -1,4 +1,4 @@
-AI Image Generator (MERN + DALLE)
+### AI Image Generator (MERN + DALLE)
 This project is an AI-powered image generator website built using the MERN stack (MongoDB, Express, React, Node.js) that integrates with OpenAI's DALLE model to generate unique images based on user inputs. The website is responsive and can be used on mobile devices as well.
 
 Features

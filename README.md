@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ai-image-generator.git
+git clone https://github.com/Yash16p/ai-image-generator.git
 cd ai-image-generator
 Install dependencies:
 
